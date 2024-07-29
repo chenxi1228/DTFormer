@@ -33,7 +33,7 @@ Please consider citing our paper when using this project.
 @article{chen2024dtformer,
   title={DTFormer: A Transformer-Based Method for Discrete-Time Dynamic Graph Representation Learning},
   author={Chen, Xi and Xiong, Yun and Zhang, Siwei and Zhang, Jiawei and Zhang, Yao and Zhou, Shiyang and Wu, Xixi and Zhang, Mingyang and Liu, Tengfei and Wang, Weiqiang},
-  booktitle={In: Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM ’24), Oc- tober 21–25, 2024, Boise, ID, USA.},
+  journal={arXiv preprint arXiv:2407.18523},
   year={2024}
 }
 ```
