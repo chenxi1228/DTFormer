@@ -1,5 +1,5 @@
 # DTFormer: A Transformer-Based Method for Discrete-Time Dynamic Graph Representation Learning
-Codes for the paper: [DTFormer: A Transformer-Based Method for Discrete-Time Dynamic Graph Representation Learning](https://arxiv.org/abs/).
+Codes for the paper: [DTFormer: A Transformer-Based Method for Discrete-Time Dynamic Graph Representation Learning](https://arxiv.org/abs/2407.18523).
 
 
 ## Datasets
