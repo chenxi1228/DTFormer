@@ -29,6 +29,18 @@ We thank the author for making their code open-source.
 ## Citation
 
 Please consider citing our paper when using this project.
+
+```{bibtex}
+@inproceedings{chen2024dtformer,
+  title={DTFormer: A Transformer-Based Method for Discrete-Time Dynamic Graph Representation Learning},
+  author={Chen, Xi and Xiong, Yun and Zhang, Siwei and Zhang, Jiawei and Zhang, Yao and Zhou, Shiyang and Wu, Xixi and Zhang, Mingyang and Liu, Tengfei and Wang, Weiqiang},
+  booktitle={Proceedings of the 33rd ACM International Conference on Information and Knowledge Management},
+  pages={301--311},
+  year={2024}
+}
+```
+or
+
 ```{bibtex}
 @article{chen2024dtformer,
   title={DTFormer: A Transformer-Based Method for Discrete-Time Dynamic Graph Representation Learning},
